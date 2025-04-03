@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Nguyễn Văn Hehehee",
+      "address": "Hà Nội"
+    },
+    {
+      "id": 2,
+      "fullName": "Nguyễn Văn A",
+      "address": "Hải Phòng"
+    },
+    {
+      "id": 3,
+      "fullName": "Trần Văn B",
+      "address": "Huế"
+    },
+    {
+      "id": 4,
+      "fullName": "Đặng Tiến Hoàng",
+      "address": "Peter"
+    },
+    {
+      "id": 5,
+      "fullName": "Trần Văn Hehe",
+      "address": "Hà Nội"
+    }
+  ]
+}
